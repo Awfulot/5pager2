@@ -1,0 +1,17 @@
+body {
+    background-color: #a2e6eb;
+}
+
+.homepageText {
+    font-family: 'Roboto', sans-serif;
+    margin-right: 70%;
+    text-align:center;
+    padding-bottom: 100%;
+}
+
+.homepageImage {
+    width: 50%;
+    height: auto;
+    margin-left: 70%;
+    float: right;
+}
